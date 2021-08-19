@@ -1,0 +1,8 @@
+* SPICE3 file created from {CMOS_Inverter}.ext - technology: scmos
+
+.option scale=0.3u
+
+M1000 Z A gnd Gnd nfet w=10 l=2
++  ad=60 pd=32 as=50 ps=30
+M1001 Z A vdd Vdd pfet w=20 l=2
++  ad=120 pd=52 as=100 ps=50
